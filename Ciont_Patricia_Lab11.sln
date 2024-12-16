@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{A5061619-A7CB-47F7-978C-8FAF08FFCF08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ciont_Patricia_Lab11", "Ciont_Patricia_Lab11\Ciont_Patricia_Lab11.csproj", "{8A530B46-807C-4AF9-9199-1B22384FD253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5061619-A7CB-47F7-978C-8FAF08FFCF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5061619-A7CB-47F7-978C-8FAF08FFCF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5061619-A7CB-47F7-978C-8FAF08FFCF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5061619-A7CB-47F7-978C-8FAF08FFCF08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A530B46-807C-4AF9-9199-1B22384FD253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A530B46-807C-4AF9-9199-1B22384FD253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A530B46-807C-4AF9-9199-1B22384FD253}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8A530B46-807C-4AF9-9199-1B22384FD253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A530B46-807C-4AF9-9199-1B22384FD253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A530B46-807C-4AF9-9199-1B22384FD253}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1340F136-B43C-453B-B290-AE701F4F2238}
+	EndGlobalSection
+EndGlobal
